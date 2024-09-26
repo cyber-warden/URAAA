@@ -28,8 +28,8 @@ pip install aiohttp
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
-   cd repository-name
+   git clone https://github.com/kabir403/ura
+   cd ura
    ```
 
 2. Create a `ua.txt` file in the same directory and add your desired User-Agent strings, each on a new line.
@@ -44,7 +44,7 @@ pip install aiohttp
 4. Run the tool with the following command:
 
    ```bash
-   python attacker.py
+   python ura.py
    ```
 
 5. Follow the prompts to enter the required information:
@@ -87,8 +87,3 @@ This tool is intended for educational purposes and should only be used in enviro
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-### Instructions to Use
-
-1. Replace `yourusername` and `repository-name` in the clone command with your actual GitHub username and repository name.
-2. Add any additional details about the project as needed.
-3. Save this as `README.md` in your project directory.
